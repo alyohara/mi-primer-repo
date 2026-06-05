@@ -10,3 +10,4 @@ Completar con nombre y apellido
 * Carina Ruiz
 * Florencia Paez
 * lidia vila
+* Gustavo Abel Ojeda
