@@ -11,3 +11,4 @@ Completar con nombre y apellido
 * Florencia Paez
 * lidia vila
 * Gustavo Abel Ojeda
+* Marcos Nicolás Rivero
